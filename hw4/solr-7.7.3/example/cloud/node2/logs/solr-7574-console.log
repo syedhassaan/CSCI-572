@@ -1,0 +1,13 @@
+2022-04-11 08:47:35.656 INFO  (main) [   ] o.e.j.u.log Logging initialized @1372ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-04-11 08:47:35.933 WARN  (main) [   ] o.e.j.s.AbstractConnector Ignoring deprecated socket close linger time
+2022-04-11 08:47:35.946 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 1.8.0_321-b07
+2022-04-11 08:47:35.977 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///Users/esha/Documents/CSCI%20572/hw4/solr-7.7.3/server/contexts/] at interval 0
+2022-04-11 08:47:36.468 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2022-04-11 08:47:36.480 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2022-04-11 08:47:36.480 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2022-04-11 08:47:36.482 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 660000ms
+2022-04-11 08:47:36.676 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2022-04-11 08:47:36.687 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 7.7.3
+2022-04-11 08:47:36.692 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 7574
+2022-04-11 08:47:36.692 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /Users/esha/Documents/CSCI 572/hw4/solr-7.7.3
+2022-04-11 08:47:36.693 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2022-04-11T08:47:36.693Z
