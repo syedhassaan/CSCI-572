@@ -1,0 +1,6 @@
+average percent overlap: 13.1%
+average Spearman Coefficient: -6.37
+
+Looking at the average percent overlap and average Spearman Coefficient, DuckDuckGo seems to be performing much worse than Google. 
+However, since DuckDuckGo focues on privacy a lot more than Google it is possible that the search results aren't influenced by demographic data.
+A negative Spearman Coefficient also indicates that the two search engines use different algorithms for weighting and ranking the results in response to the queries. 
